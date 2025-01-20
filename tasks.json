@@ -1,0 +1,278 @@
+{
+  "currentMode": "naming",
+  "paused": false,
+  "modes": {
+    "naming": {
+      "currentTask": 0,
+      "tasks": [
+        {
+          "name": "Mahsulot A uchun nom o'ylab toping",
+          "date": "2024-12-17"
+        },
+        {
+          "name": "Mahsulot Test1 uchun nom o'ylab toping",
+          "date": "2024-12-18"
+        },
+        {
+          "name": "Mahsulot Test2 uchun nom o'ylab toping",
+          "date": "2024-12-20"
+        },
+        {
+          "name": "Brend B uchun nom o'ylab toping",
+          "date": "2024-12-21"
+        },
+        {
+          "name": "Kampaniya C uchun shior ishlab chiqing",
+          "date": "2024-12-22"
+        },
+        {
+          "name": "Kompaniya D uchun nom yaratish",
+          "date": "2024-12-23"
+        },
+        {
+          "name": "Brend E uchun kreativ nom toping",
+          "date": "2024-12-24"
+        },
+        {
+          "name": "Mahsulot F uchun original nom o'ylab toping",
+          "date": "2024-12-25"
+        },
+        {
+          "name": "TEST NEW1",
+          "date": "2024-12-25"
+        },
+        {
+          "name": "Loyiha G uchun muhim nom yaratish",
+          "date": "2024-12-26"
+        },
+        {
+          "name": "Xizmat H uchun oddiy va esda qolarli nom tanlang",
+          "date": "2024-12-27"
+        },
+        {
+          "name": "Brend I uchun qisqa va oson nom ishlab chiqing",
+          "date": "2024-12-28"
+        },
+        {
+          "name": "Mahsulot J uchun bozorda ajralib turadigan nom tanlang",
+          "date": "2024-12-29"
+        },
+        {
+          "name": "Kampaniya K uchun jalb qiluvchi nom ishlab chiqing",
+          "date": "2024-12-30"
+        },
+        {
+          "name": "Yangi xizmat L uchun strategik nom toping",
+          "date": "2024-12-31"
+        },
+        {
+          "name": "Kompaniya M uchun brend nomi ishlab chiqing",
+          "date": "2025-01-01"
+        },
+        {
+          "name": "Mahsulot N uchun innovatsion nom o'ylab toping",
+          "date": "2025-01-02"
+        },
+        {
+          "name": "Loyiha O uchun muhim va esda qolarli nom yaratish",
+          "date": "2025-01-03"
+        }
+      ]
+    },
+    "brending": {
+      "currentTask": 0,
+      "tasks": [
+        {
+          "name": "Logotip yaratish",
+          "date": "2024-12-20"
+        },
+        {
+          "name": "Rang palitrasi tanlash",
+          "date": "2024-12-21"
+        },
+        {
+          "name": "Brend uchun shior ishlab chiqish",
+          "date": "2024-12-22"
+        },
+        {
+          "name": "Brend identifikatsiyasini belgilash",
+          "date": "2024-12-23"
+        },
+        {
+          "name": "Mahsulot uchun qadoqlash dizayni yaratish",
+          "date": "2024-12-24"
+        },
+        {
+          "name": "Raqobatchilarni tahlil qilish",
+          "date": "2024-12-25"
+        },
+        {
+          "name": "Brend ovozi va uslubini belgilash",
+          "date": "2024-12-26"
+        },
+        {
+          "name": "Maqsadli auditoriyani o'rganish",
+          "date": "2024-12-27"
+        },
+        {
+          "name": "Brend strategiyasini ishlab chiqish",
+          "date": "2024-12-28"
+        },
+        {
+          "name": "Korporativ dizaynni yaratish",
+          "date": "2024-12-29"
+        },
+        {
+          "name": "Brend hikoyasini ishlab chiqish",
+          "date": "2024-12-30"
+        },
+        {
+          "name": "Mahsulot qadoqlashining dizaynini sinovdan o'tkazish",
+          "date": "2024-12-31"
+        },
+        {
+          "name": "Marketing materiallarini tayyorlash",
+          "date": "2025-01-01"
+        },
+        {
+          "name": "Sotsial media uchun postlar yaratish",
+          "date": "2025-01-02"
+        },
+        {
+          "name": "Brendning vizual identifikatorlarini yaratish",
+          "date": "2025-01-03"
+        }
+      ]
+    },
+    "marketing": {
+      "currentTask": 0,
+      "tasks": [
+        {
+          "name": "Reklama kampaniyasini rejalashtirish",
+          "date": "2024-12-20"
+        },
+        {
+          "name": "Raqobatchilar tahlilini o'tkazish",
+          "date": "2024-12-21"
+        },
+        {
+          "name": "Maqsadli auditoriyani belgilash",
+          "date": "2024-12-22"
+        },
+        {
+          "name": "Reklama platformalarini tanlash",
+          "date": "2024-12-23"
+        },
+        {
+          "name": "Kontentni rejalashtirish",
+          "date": "2024-12-24"
+        },
+        {
+          "name": "Byudjetni taqsimlash",
+          "date": "2024-12-25"
+        },
+        {
+          "name": "E-mail marketing kampaniyasini boshlash",
+          "date": "2024-12-26"
+        },
+        {
+          "name": "SEO strategiyasini ishlab chiqish",
+          "date": "2024-12-27"
+        },
+        {
+          "name": "PPC reklama kampaniyasini sozlash",
+          "date": "2024-12-28"
+        },
+        {
+          "name": "Sotsial media kampaniyasini tayyorlash",
+          "date": "2024-12-29"
+        },
+        {
+          "name": "Mahsulot targ'ibotini amalga oshirish",
+          "date": "2024-12-30"
+        },
+        {
+          "name": "Raqamli reklama natijalarini tahlil qilish",
+          "date": "2024-12-31"
+        },
+        {
+          "name": "Bozordagi yangi tendensiyalarni o'rganish",
+          "date": "2025-01-01"
+        },
+        {
+          "name": "Ko'rgazma va tadbirlarda qatnashish",
+          "date": "2025-01-02"
+        },
+        {
+          "name": "Brend obro'sini oshirish strategiyasini yaratish",
+          "date": "2025-01-03"
+        }
+      ]
+    },
+    "packaging": {
+      "currentTask": 0,
+      "tasks": [
+        {
+          "name": "Qadoqlash uchun materialni tanlash",
+          "date": "2024-12-20"
+        },
+        {
+          "name": "Qadoqlash dizaynini yaratish",
+          "date": "2024-12-21"
+        },
+        {
+          "name": "Qadoqlash bo'yicha yetkazib beruvchi izlash",
+          "date": "2024-12-22"
+        },
+        {
+          "name": "Qadoqlash xarajatlarini hisoblash",
+          "date": "2024-12-23"
+        },
+        {
+          "name": "Mahsulotni qadoqlash usulini belgilash",
+          "date": "2024-12-24"
+        },
+        {
+          "name": "Qadoqlash formatini sinovdan o'tkazish",
+          "date": "2024-12-25"
+        },
+        {
+          "name": "Mahsulotni qadoqlashning sifat nazorati",
+          "date": "2024-12-26"
+        },
+        {
+          "name": "Yangi qadoqlash usullarini tahlil qilish",
+          "date": "2024-12-27"
+        },
+        {
+          "name": "Qadoqlash jarayonini optimallashtirish",
+          "date": "2024-12-28"
+        },
+        {
+          "name": "Brendni ifoda etuvchi qadoq yaratish",
+          "date": "2024-12-29"
+        },
+        {
+          "name": "Qadoqlash bo'yicha ekologik yechimlar izlash",
+          "date": "2024-12-30"
+        },
+        {
+          "name": "Mahsulot qadoqlash bo'yicha mijozlar fikrini o'rganish",
+          "date": "2024-12-31"
+        },
+        {
+          "name": "Qadoqlash jarayonining samaradorligini oshirish",
+          "date": "2025-01-01"
+        },
+        {
+          "name": "Logistika uchun qulay qadoqlash yaratish",
+          "date": "2025-01-02"
+        },
+        {
+          "name": "Mahsulotni xalqaro miqyosda qadoqlashni rejalashtirish",
+          "date": "2025-01-03"
+        }
+      ]
+    }
+  }
+}
