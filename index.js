@@ -2,7 +2,7 @@ const fs = require('fs');
 const { Telegraf } = require('telegraf');
 const schedule = require('node-schedule');
 
-const bot = new Telegraf('7575112822:AAE26AS0WwbxPdp1tKI4V4ABexee0Kf294A');
+const bot = new Telegraf('');
 
 // JSON-файл для хранения задач и состояния
 const tasksFile = './tasks.json';
